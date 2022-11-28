@@ -1,0 +1,8 @@
+D:\zoo task\NewTask\bin\Debug\NewTask.exe.config
+D:\zoo task\NewTask\bin\Debug\NewTask.exe
+D:\zoo task\NewTask\bin\Debug\NewTask.pdb
+D:\zoo task\NewTask\obj\Debug\NewTask.csproj.AssemblyReference.cache
+D:\zoo task\NewTask\obj\Debug\NewTask.csproj.SuggestedBindingRedirects.cache
+D:\zoo task\NewTask\obj\Debug\NewTask.csproj.CoreCompileInputs.cache
+D:\zoo task\NewTask\obj\Debug\NewTask.exe
+D:\zoo task\NewTask\obj\Debug\NewTask.pdb
